@@ -1,0 +1,69 @@
+.resume-section {
+    .resume-section-content {
+        .hover-icons {
+            cursor: text;
+
+            li {
+                .devicon-java-plain, .devicon-php-plain, .devicon-javascript-plain,
+                .devicon-mongodb-plain,
+                .devicon-mysql-plain,
+                .devicon-vuejs-plain,
+                .devicon-angularjs-plain,
+                .devicon-jquery-plain-wordmark,
+                .devicon-bootstrap-plain-wordmark,
+                .devicon-amazonwebservices-original,
+                .devicon-heroku-original,
+                .devicon-github-plain,
+                .devicon-wordpress-plain-wordmark,
+                .devicon-trello-plain-wordmark,
+                .devicon-slack-plain-wordmark,
+                .devicon-babel-plain,
+                .npm-fontawesome {
+                    &:hover {
+                        color: orange;
+                    }
+                }
+
+                .devicon-vuejs-plain {
+                    color: #26981e;
+                }
+                .devicon-angularjs-plain{
+                    color: #c52424;
+                }
+            }
+
+
+            .aws {
+                color: black;
+                &:hover {
+                    color: orange;
+                }
+            }
+            .spring-framework, .laravel-framework, .express-framework {
+                color: #72c724;
+
+                &:hover {
+                    color: orange;
+                }
+
+            }
+
+        }
+    }
+}
+
+.bg-primary {
+    background-color: #38ada9 !important;
+}
+
+.text-primary {
+    color: #079992 !important;
+}
+
+a {
+    color: #079992;
+    text-decoration: none !important;
+    &:hover {
+        color: orange
+    }
+}

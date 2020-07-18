@@ -1,0 +1,42 @@
+.resume-section .resume-section-content .hover-icons {
+  cursor: text; }
+  .resume-section .resume-section-content .hover-icons li .devicon-java-plain:hover, .resume-section .resume-section-content .hover-icons li .devicon-php-plain:hover, .resume-section .resume-section-content .hover-icons li .devicon-javascript-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-mongodb-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-mysql-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-vuejs-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-angularjs-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-jquery-plain-wordmark:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-bootstrap-plain-wordmark:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-amazonwebservices-original:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-heroku-original:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-github-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-wordpress-plain-wordmark:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-trello-plain-wordmark:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-slack-plain-wordmark:hover,
+  .resume-section .resume-section-content .hover-icons li .devicon-babel-plain:hover,
+  .resume-section .resume-section-content .hover-icons li .npm-fontawesome:hover {
+    color: orange; }
+  .resume-section .resume-section-content .hover-icons li .devicon-vuejs-plain {
+    color: #26981e; }
+  .resume-section .resume-section-content .hover-icons li .devicon-angularjs-plain {
+    color: #c52424; }
+  .resume-section .resume-section-content .hover-icons .aws {
+    color: black; }
+    .resume-section .resume-section-content .hover-icons .aws:hover {
+      color: orange; }
+  .resume-section .resume-section-content .hover-icons .spring-framework, .resume-section .resume-section-content .hover-icons .laravel-framework, .resume-section .resume-section-content .hover-icons .express-framework {
+    color: #72c724; }
+    .resume-section .resume-section-content .hover-icons .spring-framework:hover, .resume-section .resume-section-content .hover-icons .laravel-framework:hover, .resume-section .resume-section-content .hover-icons .express-framework:hover {
+      color: orange; }
+
+.bg-primary {
+  background-color: #38ada9 !important; }
+
+.text-primary {
+  color: #079992 !important; }
+
+a {
+  color: #079992;
+  text-decoration: none !important; }
+  a:hover {
+    color: orange; }
