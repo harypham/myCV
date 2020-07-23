@@ -1,3 +1,6 @@
+body {
+  color: #34495e; }
+
 .resume-section .resume-section-content .hover-icons {
   cursor: text; }
   .resume-section .resume-section-content .hover-icons li .devicon-java-plain:hover, .resume-section .resume-section-content .hover-icons li .devicon-php-plain:hover, .resume-section .resume-section-content .hover-icons li .devicon-javascript-plain:hover,
